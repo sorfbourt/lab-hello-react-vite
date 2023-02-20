@@ -1,0 +1,43 @@
+body{
+  margin:0;
+}
+.container{
+  display: flex;
+  padding: 50px; 
+}
+.header{
+  background-color:#1F2535;
+  padding: 50px; 
+}
+.header p{
+  color:white;
+}
+
+.headerCtn{
+  width: 50%;
+  height:100px;
+  padding: 10% 50px;
+}
+h1{
+  color:white;
+  font-size: 60px;
+}
+
+button{
+  margin: 20px 0px;
+}
+
+.block{
+  width:25%;
+  padding: 20px;
+}
+
+.menuHeader{
+  display:flex;
+  justify-content: space-between;
+}
+
+.image-menu{
+  width:10px;
+  height: 100%;
+}
